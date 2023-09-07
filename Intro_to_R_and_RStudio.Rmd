@@ -4,6 +4,7 @@ author: Nicole Black, Kayla Xu
 date: 07/13/22
 updated: 09/01/23
 ---
+### Secure copy (scp) this file to your qbio_490_name repository. DO NOT EDIT IN fa23_course_materials! ###
 
 Welcome to RStudio! This document will take you through the basics of R before we jump right into our analyses. 
 
