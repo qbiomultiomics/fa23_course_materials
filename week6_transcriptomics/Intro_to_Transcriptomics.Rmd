@@ -35,11 +35,7 @@ Perform all data cleaning and label manipulation steps (hint: applying colnames 
 
 
 *2*
-<<<<<<< HEAD
 Determine and define your experimental design for the differential expression analysis. Control for covariance of age, gender, OR vital_status. Manipulate those columns so that they are ready for differential expression analysis (hint: what kind of variables are they? what data type are they by default? do you need to handle unknown values?)
-=======
-Determine and define your experimental design for the differential expression analysis. Control for covariance of at least 2 other variables. Manipulate those columns so that they are ready for differential expression analysis (hint: what kind of variables are they? what kind of variable do they need to be? is the data type correct? do you need to handle unknown values?)
->>>>>>> 75150ea0bc4dd3d410d7944d4b31b80ff89c3865
 ```{r}
 
 ```
